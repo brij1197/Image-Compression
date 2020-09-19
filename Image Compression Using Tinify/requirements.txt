@@ -1,0 +1,2 @@
+tinify library
+API Key from Tinify #To receive an API key go to https://tinypng.com/developers
